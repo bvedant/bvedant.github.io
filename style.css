@@ -18,12 +18,12 @@
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: rgb(5, 44, 99);
-  color: white;
+  background-color: rgb(175, 190, 218);
+  color: black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: rgb(14, 114, 207);
+  background-color: rgb(76, 122, 175);
   color: white;
 }
